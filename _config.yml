@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Tea Salon of Satoru
+email: 418.and.delphi@gmail.com
+url: https://418-and-delphi.github.io
+description: "Welcome. This is Satoru's little Tea Salon, 418 and Delphi. I'm working on a variety of personal projects. I hope you find a little solace, happiness, and a future here."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,16 +14,12 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: Instagram
+    url: https://instagram.com/418.and.delphi
+  - title: Blog
+    url: https://www.notion.so/418-n-delphi/Satoru-s-Tea-Salon-81b342969e204655ae88d47f53f95066?pvs=4
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/418-and-delphi
 
 # Build settings
 markdown: kramdown
