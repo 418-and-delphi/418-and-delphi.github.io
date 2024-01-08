@@ -148,11 +148,11 @@ a:focus {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 36px;
 }
 
 .intro .intro-body .intro-text {
