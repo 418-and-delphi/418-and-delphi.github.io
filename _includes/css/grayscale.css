@@ -148,7 +148,7 @@ a:focus {
 
 .intro .intro-body {
     display: table-cell;
-    vertical-align: Center;
+    vertical-align: middle;
     padding: 200px 0;
 }
 
